@@ -1,0 +1,4 @@
+login @@STEAM_USER@@ @@STEAM_PASS@@
+force_install_dir @@INSTALLDIR@@
+app_update 233780 validate
+exit
